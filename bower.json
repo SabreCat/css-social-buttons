@@ -9,9 +9,7 @@
     "zocial"
   ],
   "homepage": "http://zocial.smcllns.com/",
-  "main": [
-    "css/zocial.css"
-  ],
+  "main": "css/zocial.css",
   "license": "MIT",
   "ignore": [
     "*.json",
